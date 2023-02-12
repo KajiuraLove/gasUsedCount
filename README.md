@@ -1,1 +1,2 @@
 # gasUsedCount
+可以使用Web3.py库来完成这个任务。这是一个python库，用于与Ethereum网络进行交互，允许您检索账户的交易历史记录并计算gas费用。
